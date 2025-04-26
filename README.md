@@ -46,15 +46,11 @@ Increase your productivity with these essential shortcuts:
 
 AI assistance at your side all the time
 
-[![temp-Image-Jb-KHZe.avif](https://i.postimg.cc/4NzK91kk/temp-Image-Jb-KHZe.avif)](https://postimg.cc/7fZYv0Zm)
+[![temp-Image6ki-CCw.avif](https://i.postimg.cc/c1DxqLZ9/temp-Image6ki-CCw.avif)](https://postimg.cc/HjyDXHrX)
 
-Get a lesson review from your language assistant
+Query your documents to get a lesson review, ask for translations and more.
 
-[![temp-Imageuiact-P.avif](https://i.postimg.cc/zDKFXKf6/temp-Imageuiact-P.avif)](https://postimg.cc/Wtpk5Dgw)
-
-Translate your docs to another language
-
-[![temp-Image-N0-Yg-BU.avif](https://i.postimg.cc/rsM0pdn2/temp-Image-N0-Yg-BU.avif)](https://postimg.cc/Q9Yx4MZf)
+[![temp-Image-Nj-EB86.avif](https://i.postimg.cc/YqhptBCp/temp-Image-Nj-EB86.avif)](https://postimg.cc/N5vhxVXV)
 
 ## Installation
 
