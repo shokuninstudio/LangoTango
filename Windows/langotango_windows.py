@@ -629,8 +629,8 @@ class AICommentary(QWidget):
         button_layout = QHBoxLayout()
         button_layout.setSpacing(10)  # Add spacing between buttons
     
-        add_btn = QPushButton("Add Character")
-        remove_btn = QPushButton("Remove Character")
+        add_btn = QPushButton("Add Language")
+        remove_btn = QPushButton("Remove Language")
         remove_btn.setEnabled(False)  # Initially disabled
         close_btn = QPushButton("Close")
     
@@ -646,7 +646,7 @@ class AICommentary(QWidget):
         
         def add_new_character():
             add_dialog = QDialog(dialog)
-            add_dialog.setWindowTitle("Add New Character")
+            add_dialog.setWindowTitle("Add New Language")
             add_layout = QVBoxLayout(add_dialog)
             
             # Name input
@@ -657,9 +657,9 @@ class AICommentary(QWidget):
             add_layout.addLayout(name_layout)
             
             # Description input
-            add_layout.addWidget(QLabel("Character Description:"))
+            add_layout.addWidget(QLabel("Language Description:"))
             desc_input = QTextEdit()
-            desc_input.setPlaceholderText("Describe the character's personality, tone, and behavior...")
+            desc_input.setPlaceholderText("Name the Language and the AI language tutor personality...")
             add_layout.addWidget(desc_input)
             
             # Dialog buttons
