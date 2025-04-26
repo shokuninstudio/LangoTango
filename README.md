@@ -100,6 +100,10 @@ LangoTango is hyper efficient and multi-threaded, but don't load multiple models
 
 Note, using language models to rewrite sections of text can cause loss of formatting because language models will generally only output left aligned plain text. 
 
+## Important
+
+As LangoTango is a fork of Dillon, the word count tool won't work with writing systems such as Hanzi or Kanji which do not use spaces between words.
+
 ## Roadmap ahead
 
 1. Notarisation / app signing.
