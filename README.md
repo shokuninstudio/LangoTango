@@ -1,6 +1,6 @@
 # LangoTango - A local language model powered language learning partner
 
-[![temp-Imageiwy-AOD.avif](https://i.postimg.cc/HnRq2Mff/temp-Imageiwy-AOD.avif)](https://postimg.cc/7J1tP5PV)
+[![temp-Image6-YUjt-Y.avif](https://i.postimg.cc/ncq5tdfd/temp-Image6-YUjt-Y.avif)](https://postimg.cc/MvKt7mTR)
 
 ## Feature Overview
 
