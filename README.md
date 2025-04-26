@@ -12,7 +12,7 @@ LangoTango is a simple but powerful word processor designed for language learner
 
 **AI Assistance** - Collaborate with AI assistants to improve your learning and language skills. They can spot regular spelling mistakes or tell you when you need improving. Add new languages with the Language Manager simply by naming the language and and giving the AI language teacher traits
 
-[![temp-Imagec568bs.avif](https://i.postimg.cc/63jrFf61/temp-Imagec568bs.avif)](https://postimg.cc/0MSKwmwp)
+[![temp-Imagea-YHW4l.avif](https://i.postimg.cc/tC1rXBQ0/temp-Imagea-YHW4l.avif)](https://postimg.cc/zVrw7SGp)
 
 **Versatile Export Options** - Multiple export formats including Open Document, PDF, Plain Text, and Final Draft for screenwriters who need to write in different languages
 
