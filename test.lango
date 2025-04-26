@@ -1,0 +1,2636 @@
+{
+  "root_folder": {
+    "name": "My Documents",
+    "items": [
+      {
+        "name": "Hello.lango",
+        "content": [
+          {
+            "alignment": 1,
+            "spans": [
+              {
+                "text": "Test",
+                "font_family": "Courier New",
+                "font_size": 12,
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "highlight": false,
+                "color": "#000000"
+              }
+            ]
+          },
+          {
+            "alignment": 1,
+            "spans": []
+          },
+          {
+            "alignment": 132,
+            "spans": [
+              {
+                "text": "Test",
+                "font_family": "Courier New",
+                "font_size": 12,
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "highlight": false,
+                "color": "#000000"
+              }
+            ]
+          },
+          {
+            "alignment": 132,
+            "spans": []
+          },
+          {
+            "alignment": 2,
+            "spans": [
+              {
+                "text": "Test",
+                "font_family": "Courier New",
+                "font_size": 12,
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "highlight": false,
+                "color": "#000000"
+              }
+            ]
+          },
+          {
+            "alignment": 2,
+            "spans": []
+          },
+          {
+            "alignment": 1,
+            "spans": []
+          }
+        ],
+        "created": "2025-04-25T22:44:36.810019",
+        "modified": "2025-04-25T22:45:53.642915",
+        "type": "document",
+        "undo_stack": [
+          [
+            {
+              "text": "It takes two to LangoTango!",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "alignment": 1
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "T",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Te",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Tes",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test\t",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "T",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Te",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Tes",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            },
+            {
+              "alignment": 2,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            },
+            {
+              "alignment": 2,
+              "spans": [
+                {
+                  "text": "T",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            },
+            {
+              "alignment": 2,
+              "spans": [
+                {
+                  "text": "Te",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            },
+            {
+              "alignment": 2,
+              "spans": [
+                {
+                  "text": "Tes",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            },
+            {
+              "alignment": 2,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            },
+            {
+              "alignment": 2,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 2,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            },
+            {
+              "alignment": 2,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 2,
+              "spans": []
+            },
+            {
+              "alignment": 2,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            },
+            {
+              "alignment": 2,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 2,
+              "spans": []
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            },
+            {
+              "alignment": 2,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            },
+            {
+              "alignment": 2,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            },
+            {
+              "alignment": 2,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 2,
+              "spans": []
+            }
+          ],
+          [
+            {
+              "alignment": 1,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            },
+            {
+              "alignment": 132,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 132,
+              "spans": []
+            },
+            {
+              "alignment": 2,
+              "spans": [
+                {
+                  "text": "Test",
+                  "font_family": "Courier New",
+                  "font_size": 12,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "highlight": false,
+                  "color": "#000000"
+                }
+              ]
+            },
+            {
+              "alignment": 2,
+              "spans": []
+            },
+            {
+              "alignment": 1,
+              "spans": []
+            }
+          ]
+        ],
+        "redo_stack": []
+      }
+    ],
+    "created": "2025-04-25T22:44:36.809978",
+    "modified": "2025-04-25T22:44:36.809978",
+    "type": "folder"
+  },
+  "research_folder": {
+    "name": "Research",
+    "items": [],
+    "created": "2025-04-25T22:44:36.810097",
+    "modified": "2025-04-25T22:44:36.810097",
+    "type": "folder"
+  },
+  "trash_folder": {
+    "name": "Trash",
+    "items": [],
+    "created": "2025-04-25T22:44:36.810102",
+    "modified": "2025-04-25T22:44:36.810102",
+    "type": "folder"
+  },
+  "current_document": {
+    "name": "Hello.lango",
+    "content": [
+      {
+        "alignment": 1,
+        "spans": [
+          {
+            "text": "Test",
+            "font_family": "Courier New",
+            "font_size": 12,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "highlight": false,
+            "color": "#000000"
+          }
+        ]
+      },
+      {
+        "alignment": 1,
+        "spans": []
+      },
+      {
+        "alignment": 132,
+        "spans": [
+          {
+            "text": "Test",
+            "font_family": "Courier New",
+            "font_size": 12,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "highlight": false,
+            "color": "#000000"
+          }
+        ]
+      },
+      {
+        "alignment": 132,
+        "spans": []
+      },
+      {
+        "alignment": 2,
+        "spans": [
+          {
+            "text": "Test",
+            "font_family": "Courier New",
+            "font_size": 12,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "highlight": false,
+            "color": "#000000"
+          }
+        ]
+      },
+      {
+        "alignment": 2,
+        "spans": []
+      },
+      {
+        "alignment": 1,
+        "spans": []
+      }
+    ],
+    "created": "2025-04-25T22:44:36.810019",
+    "modified": "2025-04-25T22:45:53.642915",
+    "type": "document",
+    "undo_stack": [
+      [
+        {
+          "text": "It takes two to LangoTango!",
+          "font_family": "Courier New",
+          "font_size": 12,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "highlight": false,
+          "alignment": 1
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "T",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Te",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Tes",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test\t",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "T",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Te",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Tes",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        },
+        {
+          "alignment": 2,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        },
+        {
+          "alignment": 2,
+          "spans": [
+            {
+              "text": "T",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        },
+        {
+          "alignment": 2,
+          "spans": [
+            {
+              "text": "Te",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        },
+        {
+          "alignment": 2,
+          "spans": [
+            {
+              "text": "Tes",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        },
+        {
+          "alignment": 2,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        },
+        {
+          "alignment": 2,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 2,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        },
+        {
+          "alignment": 2,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 2,
+          "spans": []
+        },
+        {
+          "alignment": 2,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        },
+        {
+          "alignment": 2,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 2,
+          "spans": []
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        },
+        {
+          "alignment": 2,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        },
+        {
+          "alignment": 2,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        },
+        {
+          "alignment": 2,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 2,
+          "spans": []
+        }
+      ],
+      [
+        {
+          "alignment": 1,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        },
+        {
+          "alignment": 132,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 132,
+          "spans": []
+        },
+        {
+          "alignment": 2,
+          "spans": [
+            {
+              "text": "Test",
+              "font_family": "Courier New",
+              "font_size": 12,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "highlight": false,
+              "color": "#000000"
+            }
+          ]
+        },
+        {
+          "alignment": 2,
+          "spans": []
+        },
+        {
+          "alignment": 1,
+          "spans": []
+        }
+      ]
+    ],
+    "redo_stack": []
+  }
+}
