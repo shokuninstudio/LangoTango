@@ -106,9 +106,10 @@ As LangoTango is a fork of Dillon, the word count tool won't work with writing s
 
 ## Roadmap ahead
 
-1. Notarisation / app signing.
-2. Modular code. It's currently monolithic.
-3. Manual.
+1. Randomised writing and translation tests
+2. Notarisation / app signing.
+3. Modular code. It's currently monolithic.
+4. Manual.
 
 ---
 *LangoTango by Shokunin Studio © 2025*
